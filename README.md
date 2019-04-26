@@ -19,3 +19,5 @@ Site is fully responsive for all screen resolutions.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24629158/56780349-f8570880-67ac-11e9-8b94-f1fc1094037e.png">
 </p>
+
+[Live version link](https://antonioqfel.github.io/tindog/)
