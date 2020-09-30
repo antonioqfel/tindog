@@ -1,4 +1,5 @@
 # Tindog
+Best Work Done By You - Pls Accept my pull request.. I am a Developer too
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24629158/56780021-a1046880-67ab-11e9-92aa-b6ccf4fc3ea4.gif">
